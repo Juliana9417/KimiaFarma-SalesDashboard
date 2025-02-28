@@ -1,4 +1,4 @@
-![dashboarding](https://github.com/user-attachments/assets/d7895081-5aaf-4444-841a-6b1a9e815130)## 🛒 **KimiaFarma-SalesDashboard** 🛒
+## 🛒 **KimiaFarma-SalesDashboard** 🛒
  Sales analysis project for Kimia Farma, integrating BigQuery with Google Looker Studio to create an interactive dashboard that provides business insights and optimizes operational strategies.
 
 ---
@@ -53,20 +53,6 @@ In this project, the base table is constructed by merging the following tables:
 <br>
 An aggregate table is created by gathering and computing data from the base table. It provides a more concise summary of information, enabling faster and more efficient data analysis. This table serves as the primary data source for generating the sales report dashboard.
 </p>
-
-<p>
-<br>
-- Distribution Age in Target
-<p align="center">
-<img src="https://github.com/user-attachments/assets/1e6bf9f8-fd38-41c3-b943-af0e7abf521a"
- alt="Age">
-</p>
-<br>
-Clients with the highest payment difficulties are aged 20-30.
-Clients aged 31-50 have no payment difficulties, though there is a slight decline in the 41-50 age group. This indicates better and more stable repayment ability.
-</p>
-
-<p>
 
 ## 📂 **Data Visualization**
 
