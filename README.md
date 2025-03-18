@@ -13,7 +13,7 @@ This dashboard is designed to support strategic decision-making by analyzing sal
 
 </p>
 
-### Goal and Objectives
+### Dataset
 The provided dataset consists of the following tables:
 1. transaction
 2. branch
